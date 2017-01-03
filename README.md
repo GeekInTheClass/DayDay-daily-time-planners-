@@ -1,4 +1,4 @@
-﻿# HearthStone
+# HearthStone
 하스스톤 게임 정규전에서 쓰이는 여러가지 컨셉의 덱을 소개합니다.
 
 ## 하스스톤(HearthStone)이란?
@@ -22,3 +22,11 @@
 
 #### (4) 방밀전사 2
 <img width="491" alt="2" src="https://cloud.githubusercontent.com/assets/24871774/21600285/d9f9bf00-d1bc-11e6-9660-fd4beb900818.png">
+
+#### 2. 도적
+
+#### 3. 사제
+
+#### 4. 드루이드
+
+
